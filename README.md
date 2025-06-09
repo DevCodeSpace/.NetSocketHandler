@@ -2,7 +2,7 @@
 
 ### A powerful, flexible .NET WebSocket manager for seamless connection handling, intelligent routing, and real-time broadcasting
 
-<img src="assets/banner.jpg" alt="NetSocketHandler Banner" />
+![Plugin Banners](https://raw.githubusercontent.com/DevCodeSpace/.NetSocketHandler/refs/heads/main/assets/banner.jpg)
 
 ## 📦 Quick Installation
 
@@ -92,28 +92,30 @@ public class ChatService
 
 ## 🏗️ Architecture Overview
 
-**Core Interfaces:** </br>
+**Core Interfaces:**
 
-🔧 `IConnectionManager<TData>` - Contract for connection management operations</br>
-⚡ Support for generic data types for flexible message handling</br>
-🛡️ Thread-safe operations for concurrent WebSocket connections</br>
+🔧 `IConnectionManager<TData>` - Contract for connection management operations  
+⚡ Support for generic data types for flexible message handling  
+🛡️ Thread-safe operations for concurrent WebSocket connections  
 
-**Key Operations:**</br>
+**Key Operations:**
 
-➕ Add/Remove connections dynamically </br>
-🔍 Retrieve connections by ID or custom identifier   </br>
-📤 Send messages to individual or multiple connections </br>
-📡 Broadcast capabilities for real-time updates </br>
+➕ Add/Remove connections dynamically  
+🔍 Retrieve connections by ID or custom identifier  
+📤 Send messages to individual or multiple connections  
+📡 Broadcast capabilities for real-time updates  
 
 ## 🎯 Perfect For
 
-💬 **Real-time Chat Applications** </br>
-🔔 **Live Notifications Systems** </br>
-🤝 **Collaborative Tools** </br>
-🎮 **Gaming Servers** </br>
-🏠 **IoT Device Communication** </br>
-📈 **Trading Platforms** </br>
+💬 **Real-time Chat Applications**  
+🔔 **Live Notifications Systems**  
+🤝 **Collaborative Tools**  
+🎮 **Gaming Servers**  
+🏠 **IoT Device Communication**  
+📈 **Trading Platforms**  
 
 ## Code Contributors
 
-<img src="assets/contributors.png" width="230" alt="NetSocketHandler contributors" />
+![Plugin Banners](https://raw.githubusercontent.com/DevCodeSpace/.NetSocketHandler/refs/heads/main/assets/contributors.png)
+
+⭐ **Star this repository if NetSocketHandler helped your project!**
